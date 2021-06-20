@@ -1,0 +1,5 @@
+Below are the items I am still working on: 
+1. Learn Azure 
+2. Learn AWS
+3. Learn TeamCity
+4. Learn Security
