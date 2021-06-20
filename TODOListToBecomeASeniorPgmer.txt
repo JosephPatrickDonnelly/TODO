@@ -1,0 +1,5 @@
+TODO List to become a senior programmer 
+1. Learn Azure 
+2. Learn AWS
+3. Learn TeamCity
+4. Learn Security
