@@ -4,3 +4,6 @@ TODO List to become a senior programmer
 2. Learn AWS
 3. Learn TeamCity
 4. Learn Security
+5. Learn python more
+6. Learn D3
+7. Learn StockMarket trading programming
