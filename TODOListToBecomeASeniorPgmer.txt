@@ -1,4 +1,5 @@
 TODO List to become a senior programmer 
+0. Learn Git, GitHub and TortoiseGit
 1. Learn Azure 
 2. Learn AWS
 3. Learn TeamCity
